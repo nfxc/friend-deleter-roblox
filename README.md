@@ -1,2 +1,8 @@
-# friend-deleter-roblox
-Mass-unfriend everyone on a Roblox account via .ROBLOSECURITY cookie.
+# Friend Deleter Roblox
+
+Bulk unfriend everyone from a Roblox account through. Cookie `.ROBLOSECURITY`.
+
+## Launch
+```bash
+pip install requests
+python main.py
